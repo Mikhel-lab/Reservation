@@ -1,0 +1,48 @@
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.exe
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.deps.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.CopyComplete
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.genruntimeconfig.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.exe
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.deps.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.dev.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.AssemblyReference.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.AssemblyInfoInputs.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.AssemblyInfo.cs
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.CoreCompileInputs.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.CopyComplete
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.genruntimeconfig.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.exe
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.deps.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.AssemblyInfo.cs
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.csproj.CopyComplete
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Models\obj\Debug\netcoreapp3.1\HotelReservation.Models.genruntimeconfig.cache

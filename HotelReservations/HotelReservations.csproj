@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>b6a99c53-f1e3-4ece-882a-c8cfa7273856</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire" Version="1.7.24" />
+    <PackageReference Include="Hangfire.Mongo" Version="0.7.22" />
+    <PackageReference Include="MongoDB.Driver" Version="2.12.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelReservation.Domain\HotelReservation.Domain.csproj" />
+    <ProjectReference Include="..\HotelReservation.Repositories\HotelReservation.Repositories.csproj" />
+  </ItemGroup>
+
+
+</Project>

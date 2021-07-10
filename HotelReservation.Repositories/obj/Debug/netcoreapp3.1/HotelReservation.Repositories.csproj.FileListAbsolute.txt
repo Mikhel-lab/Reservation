@@ -1,0 +1,249 @@
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.deps.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.exe
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.deps.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.exe
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.exe
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.deps.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.CopyComplete
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.genruntimeconfig.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Postal.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\RazorEngine.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.deps.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.exe
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.deps.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.dev.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.exe
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.deps.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.dev.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.exe
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.deps.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.runtimeconfig.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.runtimeconfig.dev.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.exe
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.exe
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.deps.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.runtimeconfig.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.runtimeconfig.dev.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Postal.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\RazorEngine.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.AssemblyReference.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.AssemblyInfoInputs.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.AssemblyInfo.cs
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.CopyComplete
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.genruntimeconfig.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.deps.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.exe
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.deps.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.exe
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.deps.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.runtimeconfig.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.exe
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.exe
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.deps.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.runtimeconfig.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Repositories.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\Postal.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\RazorEngine.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Models.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\bin\Debug\netcoreapp3.1\HotelReservation.Service.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.AssemblyInfo.cs
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.csproj.CopyComplete
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Repositories\obj\Debug\netcoreapp3.1\HotelReservation.Repositories.genruntimeconfig.cache

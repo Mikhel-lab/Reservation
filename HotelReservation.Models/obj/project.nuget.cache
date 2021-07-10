@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDu8jWDPZSR6bDuT9h7NwKaS9xeltylIYQCayqHTMjIRGsKG+TzfFeUuCkNxKge6pdNwaop8BQbq0EV/wzxtRg==",
+  "success": true,
+  "projectFilePath": "C:\\Reservation\\HotelReservation.Models\\HotelReservation.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SDSD DEV7\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
+    "C:\\Users\\SDSD DEV7\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.exe
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.deps.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\SDSD DEV7\source\repos\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.genruntimeconfig.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.exe
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.deps.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.dev.json
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.csproj.AssemblyReference.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.AssemblyInfoInputs.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.AssemblyInfo.cs
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\codex\source\repos\HotelTestPro\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.genruntimeconfig.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.exe
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.deps.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\bin\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.AssemblyInfo.cs
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.dll
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.pdb
+C:\Users\SDSD DEV7\HotelResrvation\HotelReservation.Domain\obj\Debug\netcoreapp3.1\HotelReservation.Domain.genruntimeconfig.cache
